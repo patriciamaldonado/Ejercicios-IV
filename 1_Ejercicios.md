@@ -40,11 +40,15 @@ Para calcular la amortización dividimos el precio del servidor (sin IVA) entre 
 - 15,8€* Al mes
 
 
-1. Servidor cloud :
-  - Uso 10%
+1. Servidor cloud :  
+
+  - Uso 10%:  
+
     6,80 x 0.1 (10%) = 0,68 €/mes
-    0,68 €/mes x 12 meses = 8,16 €/año
-  - Uso 1%
+    0,68 €/mes x 12 meses = 8,16 €/año  
+
+  - Uso 1%:  
+
     6,80 x 0.01 (1%) = 0,068 €/mes          
      0,068 €/mes  x 12 meses =  0,816 €/año
 
@@ -58,7 +62,7 @@ Como vemos cuando tenemos poco uso es recomendable escoger un server cloud ajust
 
 ### Ejercicio 3
 
-** En general, cualquier ordenador con menos de 5 o 6 años tendrá estos flags. ¿Qué modelo de procesador es? ¿Qué aparece como salida de esa orden? Si usas una máquina virtual, ¿qué resultado da? ¿Y en una Raspberry Pi o, si tienes acceso, el procesador del móvil? **
+**En general, cualquier ordenador con menos de 5 o 6 años tendrá estos flags. ¿Qué modelo de procesador es? ¿Qué aparece como salida de esa orden? Si usas una máquina virtual, ¿qué resultado da? ¿Y en una Raspberry Pi o, si tienes acceso, el procesador del móvil?**
 
 - Portátil ASUS: Intel® Core™ i7-4510U CPU @ 2.00GHz × 4
      > egrep '^flags.*(vmx|svm)' /proc/cpuinfo
@@ -66,7 +70,7 @@ Como vemos cuando tenemos poco uso es recomendable escoger un server cloud ajust
      flags		: fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush dts acpi mmx fxsr sse sse2 ss ht tm pbe syscall nx pdpe1gb rdtscp lm constant_tsc arch_perfmon pebs bts rep_good nopl xtopology nonstop_tsc aperfmperf pni pclmulqdq dtes64 monitor ds_cpl vmx est tm2 ssse3 sdbg fma cx16 xtpr pdcm pcid sse4_1 sse4_2 movbe popcnt tsc_deadline_timer aes xsave avx f16c rdrand lahf_lm abm epb invpcid_single ssbd ibrs ibpb stibp pti tpr_shadow vnmi flexpriority ept vpid fsgsbase tsc_adjust bmi1 avx2 smep bmi2 erms invpcid xsaveopt dtherm ida arat pln pts md_clear flush_l1d
      ~~~
 
-- Xiaomi Redmi Note 7. Para ver las caráctersticas hardaware he usado la aplicación Droid hardware info.
+- Xiaomi Redmi Note 7. Para ver las características hardaware he usado la aplicación Droid hardware info.
 
 ~~~
 DISPOSITIVO
@@ -168,8 +172,9 @@ Java Heap: 256 MB
 
 ### Ejercicio 5
 
-**Darse de alta en servicios de nube usando ofertas gratuitas o cupones que pueda proporcionar el profesor.**
-He intentado darme de alta pero pide la tarjeta.
+**Darse de alta en servicios de nube usando ofertas gratuitas o cupones que pueda proporcionar el profesor.**  
+
+Me he dado de alta en Amazon Web Services.
 
 ### Ejercicio 6
 
