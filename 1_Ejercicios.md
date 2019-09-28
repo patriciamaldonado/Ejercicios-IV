@@ -22,7 +22,7 @@ Para calcular la amortización dividimos el precio del servidor (sin IVA) entre 
 
 **Usando las tablas de precios de servicios de alojamiento en Internet “clásicos”, es decir, que ofrezcan Virtual Private Servers o servidores físicos, y de proveedores de servicios en la nube, comparar el coste durante un año de un ordenador con un procesador estándar (escogerlo de forma que sea el mismo tipo de procesador en los dos vendedores) y con el resto de las características similares (tamaño de disco duro equivalente a transferencia de disco duro) en el caso de que la infraestructura comprada se usa solo el 1% o el 10% del tiempo.**
 
-> [Servidor cloud](https://www.swhosting.com/es/cloud)
+> [Servidor cloud](https://www.swhosting.com/es/cloud) 6,80€/mes
   - 2 vCore
   - 2 GB RAM
   - 20 GB de disco SSD
@@ -30,15 +30,11 @@ Para calcular la amortización dividimos el precio del servidor (sin IVA) entre 
    - FireWall Perimetral Capa 4
    - 6,80€/mes
 
-> [VPS](https://gigas.com/cloud-vps)
- - 2 gigas de ram
- - garantizada
+> [VPS](https://gigas.com/cloud-vps) 15,8€* Al mes
+ - 2 GB RAM
  - 2 cores 2.1GHz/core
- - 50 gigas de disco
-- 400GB
--transferencia ilimitada
-- 15,8€* Al mes
-
+ - 50 GB de disco
+  -transferencia ilimitada
 
 1. Servidor cloud :  
 
