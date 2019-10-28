@@ -46,4 +46,3 @@ Se ha configurado Travis CI  y Shippable. A continuación se muestran los archiv
 - [Archivo de travis](https://github.com/patriciamaldonado/GestEnergy/blob/master/.travis.yml)
 -  [Archivo de shippable](https://github.com/patriciamaldonado/GestEnergy/blob/master/.shippable.yml)
 - [Herramientas de construcción y prueba e Integración continua](https://github.com/patriciamaldonado/GestEnergy/blob/master/docs/CI_test.md)
-- [Descrición de la clase](https://github.com/patriciamaldonado/GestEnergy/blob/master/docs/doc_clase.md)
